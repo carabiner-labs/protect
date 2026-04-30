@@ -1,6 +1,6 @@
 module github.com/carabiner-labs/protect
 
-go 1.26.2
+go 1.25.8
 
 require (
 	google.golang.org/grpc v1.80.0
